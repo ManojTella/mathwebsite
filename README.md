@@ -175,8 +175,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Github logo](area.png)
-![Github logo](area1.png)
+![Github logo](are.png)
+![Github logo](are1.png)
 
 
 ## Result:
